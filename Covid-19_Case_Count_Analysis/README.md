@@ -74,7 +74,7 @@ always: The estimated share of people in this county who would say always
 
    ![](https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Covid-19_Case_Count_Analysis/images/percentages.png)
    
-   ![](https://git.generalassemb.ly/smohan04/Project-5/blob/master/images/Covid-19_Case_Count_Analysis.jpg)
+   ![](https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Covid-19_Case_Count_Analysis/images/Covid-19_Case_Count_Analysis.jpg)
  
 ### Results
 
