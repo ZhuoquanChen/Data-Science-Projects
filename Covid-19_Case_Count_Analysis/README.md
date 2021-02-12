@@ -66,7 +66,7 @@ frequently: The estimated share of people in this county who would say frequentl
 always: The estimated share of people in this county who would say always
 
 ### EDA
-<img src="https://git.generalassemb.ly/smohan04/Project-5/blob/master/images/symptom_image.png" width="500" height="500">
+<img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Covid-19_Case_Count_Analysis/images/symptom_image.png" width="500" height="500">
 
 * Searches for infection, common cold and fever occurred much more this year 2020 then last year
 
