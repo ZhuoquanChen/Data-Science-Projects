@@ -9,11 +9,11 @@
   
 ### Methodology:
   - Stocks price-weighted portfolio
-    The weight bases on the percentage of the price of a stock in the total price of five stocks.
+    - The weight bases on the percentage of the price of a stock in the total price of five stocks.
   - Stocks equal-weighted Portfolio
-    The weight for each stock is equal.
+    - The weight for each stock is equal.
   - Stocks value-weighted Portfolio
-    The weight bases on market value of a stock.
+    - The weight bases on market value of a stock.
   - Optimal Portfolio of Stocks
     - Markov Chain Monte Carlo (MCMC) Simulations
     - Minimum risk portfolio
