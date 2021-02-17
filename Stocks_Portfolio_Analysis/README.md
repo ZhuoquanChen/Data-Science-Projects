@@ -37,8 +37,8 @@
   
 ### Conclusions:
   In 10000 weights combination of simulations by MCMC, I find out the best weights of the optimal portfolio is that:
-    AAPL: 0.3638
-    AMZN: 0.3377
-      FB: 0.0309
-   GOOGL: 0.0063
-    TSLA: 0.2613
+    - AAPL: 0.3638
+    - AMZN: 0.3377
+      - FB: 0.0309
+   - GOOGL: 0.0063
+    - TSLA: 0.2613
