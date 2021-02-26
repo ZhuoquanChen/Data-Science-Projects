@@ -5,7 +5,7 @@
 
 ### Data:
 
-  - Data Source: [SAT](https://www.kaggle.com/arjunbhasin2013/ccdata)
+  - Data Source: [Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)
   
   
 ### Methodology:
