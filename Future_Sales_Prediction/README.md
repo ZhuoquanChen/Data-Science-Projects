@@ -36,7 +36,7 @@
     - Half of stores are involved in promo 2
     - Half of the stores have their competition at a distance of 0-3000m (3 kms away)
 - Outliers detection
-  ![](https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/detect.png) 
+
 - Meerged sales.csv and sales.csv
   - correlation between target and each feature 
   - Discomposing 'Date' column into year, month and day by DatetimeIndex function
