@@ -26,7 +26,7 @@
 - Visualizations
   - sales.csv
     - Average 600 customers per day, maximum is 4500 (note that describe shows that 7388 so it should be a outlier!)
-    - Data is equally distibuted across various Days of the week (~150000 observations x 7 day = about 1.1 million observation) 
+    - Data is equally distibuted across various Days of the week (about 150000 observations x 7 day = about 1.1 million observation) 
     - Stores are open about 80% of the time
     - Data is equally distributed among all stores (no bias)
     - Promo #1 was running about 40% of the time 
@@ -52,4 +52,4 @@
   - The first training without holidays
   - The second training with holidays
     - StateHoliday: indicates a state holiday. Normally all stores, with few exceptions, are closed on state holidays. Note that all schools are closed on public holidays and weekends. a = public holiday, b = Easter holiday, c = Christmas, 0 = None
-  - SchoolHoliday: indicates if the (Store, Date) was affected by the closure of public schools
+    - SchoolHoliday: indicates if the (Store, Date) was affected by the closure of public schools
