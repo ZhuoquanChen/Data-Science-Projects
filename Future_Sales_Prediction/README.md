@@ -50,10 +50,9 @@
   - Facebook Prophet Model
   - Renamed two columns in data frame which are 'Date' column as 'ds'(x axis) and 'Sales' column as 'y'(y axis)
   - The first training without holidays
-  - ![](https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/without_holidays.png)
-    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/without_holidays.png" width="700" height="450">  
+  - ![](https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/without_holidays.png) 
   - The second training with holidays
-    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/with_holidays.png" width="700" height="450">
+  - ![](https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/with_holidays.png) 
     
     - StateHoliday: indicates a state holiday. Normally all stores, with few exceptions, are closed on state holidays. Note that all schools are closed on public holidays and weekends. a = public holiday, b = Easter holiday, c = Christmas, 0 = None
     - SchoolHoliday: indicates if the (Store, Date) was affected by the closure of public schools
