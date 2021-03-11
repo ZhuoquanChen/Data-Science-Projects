@@ -44,6 +44,7 @@
   - The average 'Sales' and 'Customers' per day in a month
     . <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/avg_customers_permonth.png" width="600" height="400">
   - The average 'Sales' and 'Customers' per day in a week
+  
   - Average 'Sales' of different type of stores
     . <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/diff_stores.png" width="600" height="400">
   - How does the promo effect Sales and Customers
