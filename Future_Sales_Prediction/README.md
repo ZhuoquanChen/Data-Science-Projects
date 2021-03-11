@@ -48,7 +48,7 @@
   - Average 'Sales' of different type of stores
     . <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/diff_stores.png" width="600" height="400">
   - How does the promo effect Sales and Customers
-    . <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/promo2.png" width="600" height="400">
+    . <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/promo2.png" width="800" height="300">
    
 ### Modeling:
   - Facebook Prophet Model
