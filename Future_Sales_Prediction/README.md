@@ -40,7 +40,7 @@
   - correlation between target and each feature
   - Discomposing 'Date' column into year, month and day by DatetimeIndex function
   - The average 'Sales' and 'Customers' per month
-    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/avg_sales_permonth.png" width="500" height="350">
+    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/avg_sales_permonth.png" width="600" height="400">
   - The average 'Sales' and 'Customers' per day in a month
     ![](https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/avg_customers_permonth.png)
   - The average 'Sales' and 'Customers' per day in a week
