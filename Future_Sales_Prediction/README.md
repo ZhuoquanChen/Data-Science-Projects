@@ -38,8 +38,7 @@
 - Outliers detection
 <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/detect.png" width="600" height="400">
 - Meerged sales.csv and sales.csv
-  - correlation between target and each feature
-  - Discomposing 'Date' column into year, month and day by DatetimeIndex function
+  - correlation between target and each feature 
   - The average 'Sales' and 'Customers' per month
   <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/avg_sales_permonth.png" width="600" height="400">
   - The average 'Sales' and 'Customers' per day in a month
