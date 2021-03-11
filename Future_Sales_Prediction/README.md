@@ -40,13 +40,13 @@
   - correlation between target and each feature 
   - Discomposing 'Date' column into year, month and day by DatetimeIndex function
   - The average 'Sales' and 'Customers' per month
-  - <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/avg_sales_permonth.png" width="600" height="400">
+  . <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/avg_sales_permonth.png" width="600" height="400">
   - The average 'Sales' and 'Customers' per day in a month
-  - <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/avg_customers_permonth.png" width="600" height="400">
+  . <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/avg_customers_permonth.png" width="600" height="400">
   - Average 'Sales' of different type of stores
-  - <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/diff_stores.png" width="600" height="400">
+  . <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/diff_stores.png" width="600" height="400">
   - How does the promo effect Sales and Customers
-  - <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/promo2.png" width="1000" height="350">
+  . <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Future_Sales_Prediction/promo2.png" width="1000" height="350">
    
 ### Modeling:
   - Facebook Prophet Model
