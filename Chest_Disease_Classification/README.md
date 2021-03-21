@@ -48,6 +48,7 @@
     - Loss
     - Validation Accuracy
     - Validation Loss
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/4.png" width="600" height="400"> 
 
   
 ### Results:
@@ -63,4 +64,8 @@
 
 ### Conclusions:
 
-  80% accuracy in prediction is acceptable result in this case since I only using 428 images to train the model. It also tell us hunman's intervention is necessary even though a model has a high accuracy. The evalution report tells us that the model is weak at the Covid-19 chest disease prediction, which with 64% accuracy precision rate, and also is weak at the bacterial pneumonia chest disease prediction, which with 50% accuracy recall rate. I think there are two main reasons cause this situation, first, the dataset too small, which only has 428 images for training and 104 images for testing. Secondly, this is a pre-trained resNet model, I just using the original weights of this model. I believe that if I can re-build a new model from scratch, it should perform better, but it may need a big dataset.
+  80% accuracy in prediction is acceptable result in this case since I only using 428 images to train the model. It also tell us hunman's intervention is necessary   even though a model has a high accuracy. The evalution report tells us that the model is weak at the Covid-19 chest disease prediction, which with 64% accuracy   
+  precision rate, and also is weak at the bacterial pneumonia chest disease prediction, which with 50% accuracy recall rate. I think there are two main reasons   
+  cause this situation, first, the dataset too small, which only has 428 images for training and 104 images for testing. Secondly, this is a pre-trained resNet 
+  model, I just using the original weights of this model. I believe that if I can re-build a new model from scratch, it should perform better, but it may need a big 
+  dataset.
