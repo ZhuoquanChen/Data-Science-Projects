@@ -61,11 +61,14 @@
 
   - Model highest training validation accuracy: 93.27%
   - Model testing validation accuracy: 80%
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/8.png" width="600" height="400">
 
 
 ### Evalution Metric
 
   - Confusion matrix
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/9.png">
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/10.png">
 
 
 ### Conclusions:
