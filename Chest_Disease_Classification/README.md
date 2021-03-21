@@ -49,6 +49,12 @@
     - Validation Accuracy
     - Validation Loss
   <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/4.png" width="600" height="400"> 
+  
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/5.png" width="600" height="400"> 
+  
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/6.png" width="600" height="400"> 
+  
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/7.png" width="600" height="400"> 
 
   
 ### Results:
