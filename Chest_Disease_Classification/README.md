@@ -41,6 +41,8 @@
       - To see how the new model work with training data
   <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/2.png" width="600" height="400"> 
   
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/3.png"> 
+  
   - Evaluation of training data
     - Accuracy
     - Loss
