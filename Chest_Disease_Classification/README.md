@@ -67,7 +67,7 @@
 ### Evalution Metric
 
   - Confusion matrix
-  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/9.png" width="400" height="180">
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/9.png" width="400" height="150">
   <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/10.png"  width="600" height="400">
 
 
