@@ -35,11 +35,12 @@
 
   - Download residual network Model as a based model for this project
     - Import pre-trained model with weights
-    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/2.png" width="600" height="400"> 
     - Freezing some layers of the based model, which we don't want them to change
     - Build and train a new model to fit this project
       - Build a new fully-connected model
       - To see how the new model work with training data
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/2.png" width="600" height="400"> 
+  
   - Evaluation of training data
     - Accuracy
     - Loss
