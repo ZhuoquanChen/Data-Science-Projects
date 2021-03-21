@@ -27,7 +27,8 @@
   
 ### Methodology:
 
-  - Data visualization 
+  - Data visualization
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Chest_Disease_Classification/images/1.png" width="600" height="400"> 
    
    
 ### Modeling:
