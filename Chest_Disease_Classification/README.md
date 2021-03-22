@@ -1,9 +1,9 @@
 # Chest Disease Classification
 
   This project used deep learning techniques in the healthcare industry and achieved automatically detecting and classifying different types of chest diseases such as healthy, covid-19, bacterial pneumonia, and viral pneumonia by using chest X-ray images, which can help a doctor to determine a chest disease case in a short time.
-  - Applied Keras' API to build a convolutional networks
+  - Applied Keras' API to build convolutional networks
   - Applied residual neural network for transfer learning
-  - Evaluated resNet training model on test data
+  - Evaluated ResNet training model on test data
   - Applied confusion metric for precision and recall
 
 
