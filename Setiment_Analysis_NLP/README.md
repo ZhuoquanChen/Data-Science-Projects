@@ -4,7 +4,7 @@
   
   - Visualized the phrases basis of key judgment results
   - Naive Bayes Model with 91.7% accuracy for new data
-  - Logistic Regreesion Model with 94.7% accuracy for new data
+  - Logistic Regression Model with 94.7% accuracy for new data
    
 
 ### Problem Statement
