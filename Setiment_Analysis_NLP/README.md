@@ -47,9 +47,9 @@
     - Using CountVectorizer for text data
     - Tokenization
     - Vectorizing
-    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/1.png" width="600" height="350"> 
-    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/2.png" width="700" height="220"> 
+    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/1.png" width="600" height="350">  
     <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/3.png" width="600" height="350"> 
+    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/2.png" width="800" height="300">
    
    
 ### Modeling:
