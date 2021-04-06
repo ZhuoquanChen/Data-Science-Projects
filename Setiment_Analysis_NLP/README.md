@@ -46,10 +46,8 @@
     - Data augmentation (encoding categorical variables)
     - Using CountVectorizer for text data
     - Tokenization
-    - Vectorizing
-    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/1.png" width="600" height="350">  
+    - Vectorizing  
     <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/3.png" width="600" height="350"> 
-    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/2.png" width="800" height="300">
    
    
 ### Modeling:
@@ -57,6 +55,8 @@
   - Naive Bayes - MultinomiaNB
   - Logistic Regression
   - GridsearchCV
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/6.png" width="500" height="300">
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/7.png" width="500" height="300">
   
 ### Results:
 
