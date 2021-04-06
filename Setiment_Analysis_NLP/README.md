@@ -55,8 +55,8 @@
   - Naive Bayes - MultinomiaNB
   - Logistic Regression
   - GridsearchCV
-  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/6.png" width="500" height="300">
-  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/7.png" width="500" height="300">
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/6.png" width="500" height="200">
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/7.png" width="500" height="200">
   
 ### Results:
 
