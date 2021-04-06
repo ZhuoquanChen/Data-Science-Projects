@@ -1,9 +1,10 @@
 # Setiment Analysis for Alexa
 
   This project used NLP technology that can immediately judge a customer whether satisfy a product or not with their sentiment analysis. It can greatly reduce manual judgment, thus saving lots of time and money for enterprises.
-    - Visualized the phrases basis of key judgment results
-    - Naive Bayes Model with 91.7% accuracy for new data
-    - Logistic Regreesion Model with 94.7% accuracy for new data
+  
+  - Visualized the phrases basis of key judgment results
+  - Naive Bayes Model with 91.7% accuracy for new data
+  - Logistic Regreesion Model with 94.7% accuracy for new data
    
 
 ### Problem Statement
@@ -25,7 +26,7 @@
 ### Data:
 
   - This dataset is about the feedback of products of Amazon alexa
-	- https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
+  - https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
   
   
 ### Methodology:
