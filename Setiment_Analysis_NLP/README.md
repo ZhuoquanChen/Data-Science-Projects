@@ -35,6 +35,7 @@
     - Removing useless columns
     - Extracing data
     - Removing punctuations
+    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/8.png" width="600" height="300"> 
 
   - EDA:
     - Rates score of each product
