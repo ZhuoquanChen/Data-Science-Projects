@@ -35,18 +35,21 @@
     - Removing useless columns
     - Extracing data
     - Removing punctuations
-    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/8.png" width="700" height="330"> 
 
   - EDA:
     - Rates score of each product
     - Distribution of rates
     - The top frequence of positive words in customers' feedbacks
+    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/8.png" width="700" height="270"> 
 
   - Data Preprocessing
     - Data augmentation (encoding categorical variables)
     - Using CountVectorizer for text data
     - Tokenization
     - Vectorizing
+    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/1.png" width="600" height="350"> 
+    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/2.png" width="700" height="220"> 
+    <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/3.png" width="600" height="350"> 
    
    
 ### Modeling:
