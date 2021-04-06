@@ -55,13 +55,14 @@
   - Naive Bayes - MultinomiaNB
   - Logistic Regression
   - GridsearchCV
-  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/6.png" width="500" height="200">
-  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/7.png" width="500" height="200">
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/6.png" width="500" height="150">
   
 ### Results:
 
   - MultinomiaNB - training scores: 0.938, testing scores: 0.917
   - Logistic Regression - training scores: 0.973, testing scores: 0.947
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/4.png" width="400" height="400">
+  <img src="https://github.com/ZhuoquanChen/Data-Science-Projects/blob/main/Setiment_Analysis_NLP/images/5.png" width="400" height="400">
 
   
 ### Conclusions:
