@@ -1,15 +1,17 @@
-# Setiment Analysis for Alexa
+### Overview
 
-  This project used NLP technology that can immediately judge a customer whether satisfy a product or not with their sentiment analysis. It can greatly reduce manual judgment, thus saving lots of time and money for enterprises.
-  
-  - Visualized the phrases basis of key judgment results
-  - Naive Bayes Model with 91.7% accuracy for new data
-  - Logistic Regression Model with 94.7% accuracy for new data
+Nature language processing can be used to build predictive models to perform sentiment analysis on social media posts and reviews. It works by converting words into numbers and training a machine learning model to make predictions. In that way, we can know if customers are happy or not without manually going through a number of posts and reviews information.
+
+In this project, I leveraged data science skills to deal with text data, perform exploratory data analysis, create world could visualizations, apply natural language processing toolkit to perform tokenization, apply feature extraction by using CountVectorizer, deal with unbalanced data set to train in Naive Bayes classified model and Logistic Regression model.
+
+The purpose of this project is to determine a customer whether satisfied or not with a product of Amazon by analyzing their feedback.
+  - Naive Bayes Model with 91.7% accuracy for new data, and with 89% accuracy for detecting people who are not satisfied.
+	- Logistic Regression Model with 94.7% accuracy for new data, and with 89% accuracy for detecting people who are not satisfied.
    
 
 ### Problem Statement
 
-  I worked as a Data Scientist in Amazon. Currently, the Products Department collected extensive data on the text reviews of their products at alexa from global customers. Based on this data, the Product Department would like me to build a model to predict whether customers are satisfied with the products or not.
+I work as a data scientist at a multinational corporation, and the Public Relations Department team has provide me extensive data on the customers such as product reviews with text format. The team would like to predict whether the customers are satisfied with the product or not.
 
 
 ### Skills
