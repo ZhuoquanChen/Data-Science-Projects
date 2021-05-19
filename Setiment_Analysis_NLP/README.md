@@ -1,8 +1,8 @@
 ### Overview
 
-Nature language processing can be used to build predictive models to perform sentiment analysis on social media posts and reviews. It works by converting words into numbers and training a machine learning model to make predictions. In that way, we can know if customers are happy or not without manually going through a number of posts and reviews information.
+Nature language processing can be used to build predictive models to perform sentiment analysis on social media posts and reviews. It works by converting words into numbers and training a machine learning model to make predictions. In that way, we can know if customers are happy or not without manually going through a massive number of posts and review information.
 
-In this project, I leveraged data science skills to deal with text data, perform exploratory data analysis, create world could visualizations, apply natural language processing toolkit to perform tokenization, apply feature extraction by using CountVectorizer, deal with unbalanced data set to train in Naive Bayes classified model and Logistic Regression model.
+In this project, I leveraged data science skills to deal with text data, perform exploratory data analysis, create world could visualizations, apply natural language processing toolkit to perform tokenization, apply feature extraction by using CountVectorizer, deal with unbalanced data set to train in Naive Bayes classified model and Logistic Regression Model.
 
 The purpose of this project is to determine a customer whether satisfied or not with a product of Amazon by analyzing their feedback.
   - Naive Bayes Model with 91.7% accuracy for new data, and with 89% accuracy for detecting people who are not satisfied.
