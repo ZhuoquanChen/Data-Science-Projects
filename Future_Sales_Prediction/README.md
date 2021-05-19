@@ -1,15 +1,16 @@
-# Future Sales Forecasting
+### Overview
 
-  This project leverages AI and machine learning to develop a predictive model, which is able to forecast sales in future based on historical data while taking into account  the affects of seasonality, holidays, promotions and competitions.
-  - Predicted future product salses
-  - Applied time series forecasting model: Facebook Prophet time series model
-  - Additive regression
-  - Predicted sales trend by weekly, monthly and yearly
+If a company want to become competitive and grow their sales, they need to leverage machine learning predictive models so they can be able to forecast sales in the future. Predictive models attempt at forecasting future sales based on historical data while taking into account seasonality affects, demend, hilidays, promotions and competition.
+
+In this project, I leveraged time series models to predict future product sales such as Facebook prophet time series forecasting model for prediction of weekly, monthly and yearly trends.
+
+The purpose of this project is to leveraged Facebook prophet time series forecasting model to predict products sales in the future.
+  - Predicted sales trend by weekly, monthly and yearly for each store.
 
 
 ### Problem Statement
 
-  For companies to become more competitive and grow strongly, they need to leverage AI/ML to develop predictive models to forecast sales in future. In this case, I will work as a Data Scientist in Sales Department, which the objective is that to predict future daily sales based on historical data while taking into various of features.
+Let's say I work as a data scientist in Sales Department, and the sales team provided me with data from 1100 stores. The objective is to predict future daily sales based on some features such as stores promotion, location, holidays, competition, product types and so on.
 
 
 ### Data:
