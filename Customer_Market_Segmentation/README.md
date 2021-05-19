@@ -4,6 +4,10 @@ Marketing is extremely critical and crucial for any business. One of the key pai
 
 In this project, I leveraged the data science skills and machine learning skills to perform market segmentation and transform the marketing department including exploratory data analysis, visualize customers dataset, as well as to fill out missing data or null elements. Found the optimal number of clusters using the Elbow Method. Then applied K-Means cluster algorithms to perform the segmentation of the dataset. Applied principle component analysis to perform dimensuinality reduction for the dataset. Applied auto-encoder to perform dimensionality reduction to build and train an auto-encoder models in Keras.
 
+The purpose of this project is to help Marketing Department of banks to segment the consumption market by clustering customers based on their credit cards consumption data, then launch ads to target it percisely in order to grow or extend business.
+  - The customer dataset was divided to 6 clusters by K-Mean algorithms.
+  - The dimensionality of the dataset was reduced to 2 dimension for visualzation.
+
 ### Problem Statement
 
 In this case, I have been hired as a data scientist to a bank in New York City, which has extensive data about their customers for the past months. The Marketing team want to launch a targeted ad marketin campaign by dividing the customers into at least three different groups based on credit card consumption.
