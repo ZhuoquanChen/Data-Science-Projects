@@ -6,7 +6,7 @@ In this project, I leveraged data science skills to deal with text data, perform
 
 The purpose of this project is to determine a customer whether satisfied or not with a product of Amazon by analyzing their feedback.
   - Naive Bayes Model with 91.7% accuracy for new data, and with 89% accuracy for detecting people who are not satisfied.
-	- Logistic Regression Model with 94.7% accuracy for new data, and with 89% accuracy for detecting people who are not satisfied.
+  - Logistic Regression Model with 94.7% accuracy for new data, and with 89% accuracy for detecting people who are not satisfied.
    
 
 ### Problem Statement
