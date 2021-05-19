@@ -1,12 +1,12 @@
 ### Overview
 
-Marketing is extremely critical and crucial for any business. One of the key pain points for marketers is to know thier customers and identify thier needs in order to grow the revenue. By understanding the customers, marketers can launch a target ad marketing campaign that is tailored for their specific needs or basically cater to them. If data about the customers is available, data scientist can applied to perform market segmentation. 
+Marketing is extremely critical and crucial for any business. One of the key pain points for marketers is to know their customers and identify their needs to grow the revenue. By understanding the customers, marketers can launch a targeted ad marketing campaign that is tailored for their specific needs or cater to them. If data about the customers is available, a data scientist can apply it to perform market segmentation. 
 
-In this project, I leveraged the data science skills and machine learning skills to perform market segmentation and transform the marketing department including exploratory data analysis, visualize customers dataset, as well as to fill out missing data or null elements. Found the optimal number of clusters using the Elbow Method. Then applied K-Means cluster algorithms to perform the segmentation of the dataset. Applied principle component analysis to perform dimensuinality reduction for the dataset. Applied auto-encoder to perform dimensionality reduction to build and train an auto-encoder models in Keras.
+In this project, I leveraged the data science skills and machine learning skills to perform market segmentation and transform the marketing department including exploratory data analysis, visualize customers' datasets, as well as to fill out missing data or null elements. Found the optimal number of clusters using the Elbow Method. Then applied K-Means cluster algorithms to perform the segmentation of the dataset. Applied principal component analysis to perform dimensionality reduction for the dataset. Applied auto-encoder to perform dimensionality reduction to build and train an auto-encoder model in Keras.
 
-The purpose of this project is to help Marketing Department of banks to segment the consumption market by clustering customers based on their credit cards consumption data, then launch ads to target it percisely in order to grow or extend business.
-  - The customer dataset was divided to 6 clusters by K-Mean algorithms.
-  - The dimensionality of the dataset was reduced to 2 dimension for visualzation.
+The purpose of this project is to help the Marketing Department of banks to segment the consumption market by clustering customers based on their credit card consumption data, then launch ads to target it precisely to grow or extend business.
+  - The customer dataset was divided into 6 clusters by K-Mean algorithms.
+  - The dimensionality of the dataset was reduced to 2 dimensions for visualization.
 
 ### Problem Statement
 
