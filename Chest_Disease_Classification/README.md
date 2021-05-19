@@ -1,23 +1,18 @@
-# Chest Disease Classification
+# Overview
 
-  This project used deep learning techniques in the healthcare industry and achieved automatically detecting and classifying different types of chest diseases such as healthy, covid-19, bacterial pneumonia, and viral pneumonia by using chest X-ray images, which can help a doctor to determine a chest disease case in a short time.
-  - Applied Keras' API to build convolutional networks
-  - Applied residual neural network for transfer learning
-  - Evaluated ResNet training model on test data
-  - Applied confusion metric for precision and recall
+Machine Learning and Deep Learning have been transforming businesses healthcare and medicine. Deep Learning specifically has been proven to be superior to detect and classify diseases by using imagery data.
 
+In this project, I leverage Kera's API to apply deep learning skills to improve disease detection processes such as Convolutional Neural Networks and Residual Neural Networks (resNet). Then train a resNet model to perform image classification by using transfer learning, as well as use Confusing 
+Matrix to evaluate performance of the model.
 
-### Background
-
-  AI/ML/DL has been revolutionizing in industries of healthcare and medicine, such as medical imagery, drug research and genome development. Also, it has been aproven to be superior in detecting and classifying disease using imagery data. For example, skin cancer could be detected more accurate by deep learning than by dermatologists in 2018.
-  - Human dermatologists detection is 86.6%
-  - Deep learning detection is 95%
-  - Reference: "Computer learns to detect skin cancer more accurate than doctors". The Guardian, 29 May 2018
+The purpose of this project is to achieved automatically detecting and classifying different types of chest diseases such as healthy, covid-19, bacterial pneumonia, and viral pneumonia based on X-ray images, which can help a doctor to determine a chest disease case in a short time.
+  - Model testing validation accuracy: 80% with 50 epochs.
+  - The model has weak performance at precision for covid-19 & bacterial pneumonia symptoms with 68% & 55% accuracy.
 
 
 ### Problem Statement
 
-  In this case, I am a deep learning consultant that work at a hospital in New York City. Recently, I have been tasked to develop a model by using extensive chest X-ray images to automate the process of detecting and classifying different types of chest disease, as well as reduce the cost and time of detection. The chest diseases were classified as Healthy, Covid-19, Bacterial Pneumonia and Viral Pneumonia.
+In this case, I am a deep learning consultant that work at a hospital in New York City. Recently, I have been tasked to develop a model by using extensive chest X-ray images to automate the process of detecting and classifying different types of chest disease, as well as reduce the cost and time of detection. The chest diseases were classified as Healthy, Covid-19, Bacterial Pneumonia and Viral Pneumonia.
 
 
 ### Data:
