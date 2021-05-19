@@ -1,6 +1,10 @@
 ### Problem Statement
 
-  Financial market is variable and full of uncertain factors, which investors always wish to find a right approach either decreasing risk or increasing return. However, the core problem of optimal investment is that how investors can reasonably allocate their existing investable assets to impletment the best return under a certain risk. This is a portfolio optimization that impletment a balance between return rate and risk rate. In this case I want to combine some stocks as a long-term investment, and I need to find a balance point between return and risk, which achieve a maxmum return and a minimum risk.
+Financial market is variable and full of uncertain factors, which investors always wish to find a right approach either decreasing risk or increasing return. However, the core problem of optimal investment is that how investors can reasonably allocate their existing investable assets to impletment the best return under a certain risk. This is a portfolio optimization that impletment a balance between return rate and risk rate. In this case I want to combine some stocks as a long-term investment, and I need to find a balance point between return and risk, which achieve a maxmum return and a minimum risk.
+
+Skills: Covariance/ Normalization / Correlation Matrix / Data Visualization / Markov Chain Monte Carlo Simulation / Sharpe Ratio
+The purpose of this project is to gain an optimal weight distribution with the lowest risk and the highest return by analyzing a stock portfolio.
+  - The optimal weights in 10,000 simulations: Apple/0.3638, Amazon/0.3377, Facebook/0.0309, Google/0.0063, Tesla/0.2613.
 
 
 ### Data:
