@@ -1,17 +1,6 @@
 ### Overview
-  Marketing is extremely critical and crucial for any business. One of the key pain points for 
-	marketers is to know thier customers and identify thier needs in order to grow the revenue. 
-	By understanding the customers, marketers can launch a target ad marketing campaign that is 
-	tailored for their specific needs or basically cater to them. If data about the customers is 
-	available, data scientist can applied to perform market segmentation. 
-  
-	In this project, I leveraged the data science skills and machine learning skills to perform 
-	market segmentation and transform the marketing department including exploratory data analysis, 
-	visualize customers dataset, as well as to fill out missing data or null elements. Found the 
-	optimal number of clusters using the Elbow Method. Then applied K-Means cluster algorithms to 
-	perform the segmentation of the dataset. Applied principle component analysis to perform 
-	dimensuinality reduction for the dataset. Applied auto-encoder to perform dimensionality 
-	reduction to build and train an auto-encoder models in Keras.
+Marketing is extremely critical and crucial for any business. One of the key pain points for marketers is to know thier customers and identify thier needs in order to grow the revenue. By understanding the customers, marketers can launch a target ad marketing campaign that is tailored for their specific needs or basically cater to them. If data about the customers is available, data scientist can applied to perform market segmentation. 
+In this project, I leveraged the data science skills and machine learning skills to perform market segmentation and transform the marketing department including exploratory data analysis, visualize customers dataset, as well as to fill out missing data or null elements. Found the optimal number of clusters using the Elbow Method. Then applied K-Means cluster algorithms to perform the segmentation of the dataset. Applied principle component analysis to perform dimensuinality reduction for the dataset. Applied auto-encoder to perform dimensionality reduction to build and train an auto-encoder models in Keras.
 
 ### Problem Statement
 
