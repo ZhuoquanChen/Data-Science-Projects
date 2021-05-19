@@ -1,9 +1,8 @@
 ### Overview
 
-Machine Learning and Deep Learning have been transforming businesses healthcare and medicine. Deep Learning specifically has been proven to be superior to detect and classify diseases by using imagery data.
+Machine Learning and Deep Learning have been transforming businesses' healthcare and medicine. Deep Learning specifically has been proven to be superior to detect and classify diseases by using imagery data.
 
-In this project, I leverage Kera's API to apply deep learning skills to improve disease detection processes such as Convolutional Neural Networks and Residual Neural Networks (resNet). Then train a resNet model to perform image classification by using transfer learning, as well as use Confusing 
-Matrix to evaluate performance of the model.
+In this project, I leverage Kera's API to apply deep learning skills to improve disease detection processes such as Convolutional Neural Networks and Residual Neural Networks (ResNet). Then train a resNet model to perform image classification by using transfer learning, as well as use Confusing Matrix to evaluate the performance of the model.
 
 The purpose of this project is to achieved automatically detecting and classifying different types of chest diseases such as healthy, covid-19, bacterial pneumonia, and viral pneumonia based on X-ray images, which can help a doctor to determine a chest disease case in a short time.
   - Model testing validation accuracy: 80% with 50 epochs.
