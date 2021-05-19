@@ -1,11 +1,11 @@
 ### Overview
 
-If a company want to become competitive and grow their sales, they need to leverage machine learning predictive models so they can be able to forecast sales in the future. Predictive models attempt at forecasting future sales based on historical data while taking into account seasonality affects, demend, hilidays, promotions and competition.
+If a company want to become competitive and grow their sales, they need to leverage machine learning predictive models so they can be able to forecast sales in the future. Predictive models attempt at forecasting future sales based on historical data while taking into account seasonality effects, demand, holidays, promotions, and competition.
 
-In this project, I leveraged time series models to predict future product sales such as Facebook prophet time series forecasting model for prediction of weekly, monthly and yearly trends.
+In this project, I leveraged time series models to predict future product sales such as the Facebook prophet time series forecasting model for the prediction of weekly, monthly, and yearly trends.
 
-The purpose of this project is to leveraged Facebook prophet time series forecasting model to predict products sales in the future.
-  - Predicted sales trend by weekly, monthly and yearly for each store.
+The purpose of this project is to leveraged the Facebook prophet time series forecasting model to predict product sales in the future.
+  - Predicted sales trend weekly, monthly, and yearly for each store.
 
 
 ### Problem Statement
